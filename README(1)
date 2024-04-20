@@ -1,4 +1,5 @@
 Steps to setup and run the project:
+Initially install Mongodb , Mongodb Compass and create react app on your editor, then follow the given steps:
 1)Install some Packages:
   ->npm install axios react-icons(http request response library)
   ->npm init -y(it will create .json folder inside the server folder)
@@ -11,7 +12,7 @@ Steps to setup and run the project:
     ->npm start(it will start the server)
 5)Now you are good to go:
     ->Input the list items by clicking the add button
-    ->As soon as the task gets completed tick the checkbox as it could get marked completed in "mongodb compass".
+    ->As soon as the task gets completed tick the checkbox as it could get marked completed in "Mongodb Compass".
     ->You can delete the task after completion or add new task.
-    ->All the functionality will reflect in the "mongodb compass".
+    ->All the functionality will reflect in the "Mongodb Compass".
 6)For your reference you can see the video also that I have uploaded in the same repository.
